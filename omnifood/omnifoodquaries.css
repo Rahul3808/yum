@@ -207,6 +207,11 @@
         text-align: center;
         margin: 10px 65px;
     } */
+         .featured-logo {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
 }
     
     @media (max-width:49em){
