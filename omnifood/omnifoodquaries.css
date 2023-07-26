@@ -191,17 +191,17 @@
         grid-column:span 3;
     }
     .featured-logo {
-        display: none;
+        display: flex;
         padding: 30px;
     }
     .how-sec {
         padding: 0rem 0 !important;
     }
     .gallery-carousel.owl-carousel.owl-theme.owl-loaded.owl-drag {
-        display: block;
+        display: none;
     }
     .featured-logo {
-        display: none;
+        display: flex;
     }
     /* .owl-stage {
         text-align: center;
