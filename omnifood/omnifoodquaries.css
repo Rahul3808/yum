@@ -167,7 +167,7 @@
         align-items: center;
     }
   .testimonial-con span, h2 {
-    text-align: center;
+    text-align: center !important;
 } 
     }
     
@@ -222,7 +222,7 @@
         align-items: center;
     }
      .testimonial-con span, h2 {
-    text-align: center;
+    text-align: center !important;
 }
 }
     
@@ -296,6 +296,6 @@
         margin: 10px 60px;
     } */
    .testimonial-con span, h2 {
-    text-align: center;
+    text-align: center !important;
 }
     }
