@@ -298,4 +298,11 @@
    .testimonial-con span, h2 {
     text-align: center !important;
 }
+   .cta-txt-box {
+    padding: 3.2rem;
+    text-align: left !important;
+}
+        body{
+            text-align:ceneter;
+        }
     }
