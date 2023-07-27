@@ -14,6 +14,9 @@
         justify-content: space-around;
         align-items: center;
     }
+    .testimonial-con span, h2 {
+    text-align: left;
+}
     }
     @media (max-width:75em){
     html{
@@ -48,6 +51,9 @@
         justify-content: space-around;
         align-items: center;
     }
+        .testimonial-con span, h2 {
+    text-align: left;
+}
     }
     
     @media (max-width:60em){
@@ -160,6 +166,9 @@
         justify-content: space-around;
         align-items: center;
     }
+        .testimonial-con span, h2 {
+    text-align: left;
+}
     }
     
     
