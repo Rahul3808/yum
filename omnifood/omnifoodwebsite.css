@@ -723,3 +723,16 @@ p.footer-contact {
 .featured-logo {
     margin-top: 40px;
 }
+
+li span {
+    text-align: left !important;
+}
+.container span, h2{
+	text-align:center;
+}
+.cta-txt-box h2 {
+    text-align: left;
+}
+.testimonial-con span {
+    text-align: center;
+}
