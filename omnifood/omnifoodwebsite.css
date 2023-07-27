@@ -736,3 +736,19 @@ li span {
 .testimonial-con span {
     text-align: center;
 }
+h2.tes-secondary-heading {
+    font-size: 4.4rem;
+    line-height: 1.2;
+    margin-bottom: 9.6rem;
+    text-align: left;
+}
+span.tes-subheading {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: #e67e22;
+    text-transform: uppercase;
+    margin-bottom: 1.6rem;
+    letter-spacing: 0.75px;
+    text-align: left;
+}
